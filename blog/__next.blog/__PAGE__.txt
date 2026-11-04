@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+3:I[62489,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js","/kvaliti-site-backup/_next/static/chunks/29pa9fr_kytun.js","/kvaliti-site-backup/_next/static/chunks/1jcp-i5iwvq4i.js"],"BlogIndex"]
+4:I[97367,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"ViewportBoundary"]
+a:I[97367,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"MetadataBoundary"]
+2:Ta90,{"@context":"https://schema.org","@type":"CollectionPage","@id":"https://wanda-creator.github.io/blog/","name":"Блог: разборы, статьи и видео","description":"Пишем о том, что видим в кабинетах и CRM клиентов. Видеоразборы и статьи без «10 лайфхаков» — только то, что влияет на деньги.","url":"https://wanda-creator.github.io/blog/","isPartOf":{"@id":"https://wanda-creator.github.io/#website"},"mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"name":"Как проверить маркетингового подрядчика за час, даже если вы не маркетолог: 3 доступа, 5 цифр и 10 вопросов","url":"https://wanda-creator.github.io/blog/kak-proverit-marketingovogo-podryadchika/"},{"@type":"ListItem","position":2,"name":"Как производству найти дилеров в регионах: 6 каналов, расчёт скидки и ошибки в договоре","url":"https://wanda-creator.github.io/blog/kak-najti-dilerov-dlya-proizvodstva/"},{"@type":"ListItem","position":3,"name":"Производство держится на 2–3 клиентах: как снизить зависимость, пока крупный заказчик не ушёл","url":"https://wanda-creator.github.io/blog/zavisimost-ot-krupnyh-klientov/"},{"@type":"ListItem","position":4,"name":"Штатный маркетолог или команда на аутсорсе: сколько каждый вариант стоит производству за год","url":"https://wanda-creator.github.io/blog/shtatnyj-marketolog-ili-autsorsing/"},{"@type":"ListItem","position":5,"name":"Сколько производству тратить на маркетинг: считаем от маржи, а не от «5% выручки»","url":"https://wanda-creator.github.io/blog/skolko-tratit-na-marketing-proizvodstvu/"},{"@type":"ListItem","position":6,"name":"Кейс фабрики Орион: 12 договоров и 1,5+ млн из Яндекс Директ","url":"https://wanda-creator.github.io/blog/orion-yandex-direct/"},{"@type":"ListItem","position":7,"name":"Почему лиды с ROMI 400% могут быть убыточными","url":"https://wanda-creator.github.io/blog/hidden-losses-behind-romi/"},{"@type":"ListItem","position":8,"name":"Как система приоритетов производства увеличила чистую прибыль на 400 000 ₽ в месяц","url":"https://wanda-creator.github.io/blog/production-priority-system/"}]}}8:X
+25:X
+25:C
+0:{"buildId":"HSSOS3fXvmJg2VS7SxMjX","data":[{"rsc":["$","$1","c",{"children":[[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная\",\"item\":\"https://wanda-creator.github.io/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Блог\",\"item\":\"https://wanda-creator.github.io/blog/\"}]}"}}]],["$","$L3",null,{}]],[["$","script","script-0",{"src":"/kvaliti-site-backup/_next/static/chunks/29pa9fr_kytun.js","async":true}],["$","script","script-1",{"src":"/kvaliti-site-backup/_next/static/chunks/1jcp-i5iwvq4i.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#202629"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Блог: разборы, статьи и видео · Квалити"}],["$","meta","1",{"name":"description","content":"Пишем о том, что видим в кабинетах и CRM клиентов. Видеоразборы и статьи без «10 лайфхаков» — только то, что влияет на деньги."}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]}]}],"$L21"]}],"isPartial":"$@22","staleTime":"$8","varyParams":null},{"rsc":"$L23","isPartial":"$@24","staleTime":"$8","varyParams":"$25"}],"isUpgradeableISRFallback":false,"a":"$@26","rootVaryParams":null,"needsRuntimeRequest":"$@27"}
+28:I[27201,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"IconMark"]
+29:I[39756,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"default"]
+2a:I[37457,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"default"]
+6:null
+b:["$","meta","2",{"name":"application-name","content":"Квалити"}]
+c:["$","link","3",{"rel":"author","href":"https://wanda-creator.github.io/"}]
+d:["$","meta","4",{"name":"author","content":"Тимур Кисиев"}]
+e:["$","meta","5",{"name":"creator","content":"Тимур Кисиев"}]
+f:["$","meta","6",{"name":"publisher","content":"Квалити"}]
+10:["$","link","7",{"rel":"canonical","href":"https://wanda-creator.github.io/blog/"}]
+11:["$","meta","8",{"property":"og:title","content":"Блог: разборы, статьи и видео"}]
+12:["$","meta","9",{"property":"og:description","content":"Пишем о том, что видим в кабинетах и CRM клиентов. Видеоразборы и статьи без «10 лайфхаков» — только то, что влияет на деньги."}]
+13:["$","meta","10",{"property":"og:url","content":"https://wanda-creator.github.io/blog/"}]
+14:["$","meta","11",{"property":"og:site_name","content":"Квалити"}]
+15:["$","meta","12",{"property":"og:locale","content":"ru_RU"}]
+16:["$","meta","13",{"property":"og:image","content":"https://wanda-creator.github.io/og.png"}]
+17:["$","meta","14",{"property":"og:image:width","content":"1200"}]
+18:["$","meta","15",{"property":"og:image:height","content":"630"}]
+19:["$","meta","16",{"property":"og:image:alt","content":"Квалити"}]
+1a:["$","meta","17",{"property":"og:type","content":"website"}]
+1b:["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}]
+1c:["$","meta","19",{"name":"twitter:title","content":"Блог: разборы, статьи и видео"}]
+1d:["$","meta","20",{"name":"twitter:description","content":"Пишем о том, что видим в кабинетах и CRM клиентов. Видеоразборы и статьи без «10 лайфхаков» — только то, что влияет на деньги."}]
+1e:["$","meta","21",{"name":"twitter:image","content":"https://wanda-creator.github.io/og.png"}]
+1f:["$","link","22",{"rel":"icon","href":"/kvaliti-site-backup/icon.png?icon.3_h-_vpstkib3.png","sizes":"256x256","type":"image/png"}]
+20:["$","$L28","23",{}]
+21:["$","meta",null,{"name":"next-size-adjust","content":""}]
+23:["$","$1","c",{"children":[null,["$","$L29",null,{"parallelRouterKey":"children","template":["$","$L2a",null,{}]}]]}]
+27:true
+8:300
+8:C
+26:0
+22:"$undefined"
+24:"$undefined"
+7:"$undefined"

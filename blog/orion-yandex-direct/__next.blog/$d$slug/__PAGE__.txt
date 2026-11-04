@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[62814,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js","/kvaliti-site-backup/_next/static/chunks/3h4f50qupj1re.js","/kvaliti-site-backup/_next/static/chunks/3f8w3f0myeyok.js","/kvaliti-site-backup/_next/static/chunks/1jcp-i5iwvq4i.js","/kvaliti-site-backup/_next/static/chunks/0l2enrxtiyj0l.js"],"OrionCaseArticle"]
+3:I[97367,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"ViewportBoundary"]
+9:I[97367,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"MetadataBoundary"]
+7:X
+1b:X
+1b:C
+0:{"buildId":"HSSOS3fXvmJg2VS7SxMjX","data":[{"rsc":["$","$1","c",{"children":[[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"@id\":\"https://wanda-creator.github.io/blog/orion-yandex-direct/#article\",\"mainEntityOfPage\":\"https://wanda-creator.github.io/blog/orion-yandex-direct/\",\"headline\":\"Кейс фабрики Орион: 12 договоров и 1,5+ млн из Яндекс Директ\",\"description\":\"Как мебельное производство из Уфы, которое жило только на рекомендациях, за 4 месяца получило 12 договоров и 1,5+ млн ₽ из рекламы.\",\"inLanguage\":\"ru-RU\",\"datePublished\":\"2026-09-24\",\"dateModified\":\"2026-10-07\",\"image\":\"https://wanda-creator.github.io/blog/orion/card-bg.webp\",\"author\":{\"@type\":\"Person\",\"@id\":\"https://wanda-creator.github.io/#founder\",\"name\":\"Тимур Кисиев\",\"url\":\"https://wanda-creator.github.io/\"},\"publisher\":{\"@id\":\"https://wanda-creator.github.io/#organization\"},\"isPartOf\":{\"@id\":\"https://wanda-creator.github.io/#website\"},\"keywords\":\"директ, мебельное производство\"}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Главная\",\"item\":\"https://wanda-creator.github.io/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Блог\",\"item\":\"https://wanda-creator.github.io/blog/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Кейс фабрики Орион: 12 договоров и 1,5+ млн из Яндекс Директ\",\"item\":\"https://wanda-creator.github.io/blog/orion-yandex-direct/\"}]}"}}]],["$","$L2",null,{}]],[["$","script","script-0",{"src":"/kvaliti-site-backup/_next/static/chunks/3h4f50qupj1re.js","async":true}],["$","script","script-1",{"src":"/kvaliti-site-backup/_next/static/chunks/3f8w3f0myeyok.js","async":true}],["$","script","script-2",{"src":"/kvaliti-site-backup/_next/static/chunks/1jcp-i5iwvq4i.js","async":true}],["$","script","script-3",{"src":"/kvaliti-site-backup/_next/static/chunks/0l2enrxtiyj0l.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#202629"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Кейс фабрики Орион: 12 договоров и 1,5+ млн из Яндекс Директ · Квалити"}],["$","meta","1",{"name":"description","content":"Как мебельное производство из Уфы, которое жило только на рекомендациях, за 4 месяца получило 12 договоров и 1,5+ млн ₽ из рекламы."}],["$","meta","2",{"name":"application-name","content":"Квалити"}],["$","link","3",{"rel":"author","href":"https://wanda-creator.github.io/"}],["$","meta","4",{"name":"author","content":"Тимур Кисиев"}],["$","meta","5",{"name":"creator","content":"Тимур Кисиев"}],["$","meta","6",{"name":"publisher","content":"Квалити"}],["$","link","7",{"rel":"canonical","href":"https://wanda-creator.github.io/blog/orion-yandex-direct/"}],["$","meta","8",{"property":"og:title","content":"Кейс фабрики Орион: 12 договоров и 1,5+ млн из Яндекс Директ"}],["$","meta","9",{"property":"og:description","content":"Как мебельное производство из Уфы, которое жило только на рекомендациях, за 4 месяца получило 12 договоров и 1,5+ млн ₽ из рекламы."}],["$","meta","10",{"property":"og:url","content":"https://wanda-creator.github.io/blog/orion-yandex-direct/"}],["$","meta","11",{"property":"og:site_name","content":"Квалити"}],["$","meta","12",{"property":"og:locale","content":"ru_RU"}],["$","meta","13",{"property":"og:image","content":"https://wanda-creator.github.io/og.png"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}]}]}],"$L17"]}],"isPartial":"$@18","staleTime":"$7","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$7","varyParams":"$1b"},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$7","varyParams":"$1b"}],"isUpgradeableISRFallback":false,"a":"$@1e","rootVaryParams":null,"needsRuntimeRequest":"$@1f"}
+20:I[27201,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"IconMark"]
+21:I[39756,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"default"]
+22:I[37457,["/kvaliti-site-backup/_next/static/chunks/2pgbf1kxgi3-l.js","/kvaliti-site-backup/_next/static/chunks/0qlibu1b4ullt.js"],"default"]
+5:null
+a:["$","meta","14",{"property":"og:image:width","content":"1200"}]
+b:["$","meta","15",{"property":"og:image:height","content":"630"}]
+c:["$","meta","16",{"property":"og:image:alt","content":"Квалити"}]
+d:["$","meta","17",{"property":"og:type","content":"article"}]
+e:["$","meta","18",{"property":"article:published_time","content":"2026-09-24"}]
+f:["$","meta","19",{"property":"article:modified_time","content":"2026-10-07"}]
+10:["$","meta","20",{"property":"article:author","content":"Тимур Кисиев"}]
+11:["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}]
+12:["$","meta","22",{"name":"twitter:title","content":"Кейс фабрики Орион: 12 договоров и 1,5+ млн из Яндекс Директ"}]
+13:["$","meta","23",{"name":"twitter:description","content":"Как мебельное производство из Уфы, которое жило только на рекомендациях, за 4 месяца получило 12 договоров и 1,5+ млн ₽ из рекламы."}]
+14:["$","meta","24",{"name":"twitter:image","content":"https://wanda-creator.github.io/og.png"}]
+15:["$","link","25",{"rel":"icon","href":"/kvaliti-site-backup/icon.png?icon.3_h-_vpstkib3.png","sizes":"256x256","type":"image/png"}]
+16:["$","$L20","26",{}]
+17:["$","meta",null,{"name":"next-size-adjust","content":""}]
+19:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+1c:["$","$1","c",{"children":[null,["$","$L21",null,{"parallelRouterKey":"children","template":["$","$L22",null,{}]}]]}]
+1f:true
+7:300
+7:C
+1e:0
+18:"$undefined"
+1a:"$undefined"
+1d:"$undefined"
+6:"$undefined"

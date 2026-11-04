@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /
+Disallow: /thanks/
+
+User-Agent: YandexAdditional
+User-Agent: GPTBot
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: ClaudeBot
+User-Agent: Claude-SearchBot
+User-Agent: PerplexityBot
+User-Agent: Google-Extended
+Allow: /
+Disallow: /thanks/
+
+Sitemap: https://wanda-creator.github.io/sitemap.xml

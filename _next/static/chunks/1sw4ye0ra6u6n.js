@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,44025,t=>{"use strict";t.i(47167),t.s(["asset",0,t=>`/kvaliti-site-backup${t}`])}]);
